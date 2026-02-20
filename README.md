@@ -20,7 +20,7 @@ In Search and Rescue (SAR) missions, terrain is unpredictable. ARACHNE uses **In
 ## 💻 Tech Stack
 * **Hardware:** ESP32 (Main Controller), PCA9685 (PWM Driver), MG996R Servos.
 * **Software:** C++/Arduino or Python.
-* **Mechanical:** Fusion 360 (CAD), 3D Printed PLA/ABS.
+* **Mechanical:** SolidWorks (CAD), 3D Printed PLA/ABS.
 * **Algorithms:** Inverse Kinematics (Trigonometric Model), Tripod Gait Logic.
 
 ## 📂 Project Structure
